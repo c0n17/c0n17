@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c0n17
 - 👀 I’m interested in Football and video games.
-- 🌱 I’m currently learning through the Odin Project!
+- 🌱 I’m currently learning to code through the Odin Project!
 - 📫 How to reach me: email - connorhunn17@gmail.com
 
 <!---
